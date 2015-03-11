@@ -1,4 +1,4 @@
-(function) ($) {
+(function ($) {
     var contacts = [
         {name:01 company:one, address:house1, tel:4592307, email:01@mail.fake, type:sales}
         {name:02 company:two, address:house2, tel:5762389, email:02@mail.fake, type:logistics}
